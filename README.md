@@ -1,7 +1,7 @@
-# toys for rusty bois
+# Rust CLI Apps
 
-`cargo add project`
+`cargo add project-name`
 
-`cd project`
+`cd project-name`
 
-`cargo run`
+`cargo run project-name`
